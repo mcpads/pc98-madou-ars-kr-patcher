@@ -51,7 +51,7 @@ cargo test
 | 그래픽 manifest | `assets/graphics_text/*.json` | 타이틀 로고, 메뉴, 아르르 오프닝, 루루 막간 선택지, 루루 크레딧 (`--assets-dir`로 변경) |
 | 그래픽 원화 | `assets/graphics_text/imagegen/PC98-DEMO-TITLE/master_rgb.png`, `assets/graphics_text/imagegen/PC98-ARLE-OPENING-ATSU/master_rgb.png` | manifest가 SHA-256을 고정 |
 
-폰트 프로필 `assets/fonts/font_profile.json`과 `assets/fonts/maplestory_bold_menu_profile.json`은 저장소에 있습니다. 폰트 파일과 라이선스 문서는 재배포 조건을 이 저장소에서 보장할 수 없어 포함하지 않습니다. 각 폰트의 라이선스는 배포처에서 확인하세요. 프로필은 같은 디렉터리의 라이선스 파일이 없거나 폰트의 SHA-256이 다르면 빌드를 멈춥니다. 배포 패치 v1.0.1은 다음 폰트 파일로 만들었습니다.
+폰트 프로필 `assets/fonts/font_profile.json`과 `assets/fonts/maplestory_bold_menu_profile.json`은 저장소에 있습니다. 프로필은 같은 디렉터리의 라이선스 파일이 없거나 폰트의 SHA-256이 다르면 빌드를 멈춥니다. 배포 패치 v1.0.1은 다음 폰트 파일로 만들었습니다.
 
 ```text
 d3818c0f2898a3b2d79ccd04ec1e4de5e8940aa26abee261f73e315a44ce8df9  Galmuri14.ttf
