@@ -1,0 +1,63 @@
+{
+  "format": "pc98_madou_ars.original_build_media.v1",
+  "demo": {
+    "id": "demo",
+    "label": "Demo disk",
+    "file_name": "Madou Monogatari A.R.S (Demo disk).hdm",
+    "size": 1261568,
+    "sha256": "185e1ea0e482f512971de4f41d41656c28b46f26cd69ea16e2a3362a10d6f56d"
+  },
+  "characters": [
+    {
+      "id": "arle",
+      "game": {
+        "id": "arle_game",
+        "label": "Arle Game disk",
+        "file_name": "Madou Monogatari A.R.S (Arle Game disk).hdm",
+        "size": 1261568,
+        "sha256": "42113b22b028ce31c6319f301e29fdfc90ce27a91855d9e082547b1e229965fc"
+      },
+      "data": {
+        "id": "arle_data",
+        "label": "Arle Data disk",
+        "file_name": "Madou Monogatari A.R.S (Arle Data disk).hdm",
+        "size": 1261568,
+        "sha256": "94d346dfdf793589f2630026770045ef6a25783112d896486e68d9d364e05281"
+      }
+    },
+    {
+      "id": "rulue",
+      "game": {
+        "id": "rulue_game",
+        "label": "Rulue Game disk",
+        "file_name": "Madou Monogatari A.R.S (Rurue Game disk).hdm",
+        "size": 1261568,
+        "sha256": "d629dc818533e9e0347fc83e0eab16cdd2388657636285c4c8d254ed087d2f89"
+      },
+      "data": {
+        "id": "rulue_data",
+        "label": "Rulue Data disk",
+        "file_name": "Madou Monogatari A.R.S (Rurue Data disk).hdm",
+        "size": 1261568,
+        "sha256": "6e55fbaad1cf3b6f9ccaac54c09e86177cf2cd7350622e036599cf1754cdc428"
+      }
+    },
+    {
+      "id": "schezo",
+      "game": {
+        "id": "schezo_game",
+        "label": "Schezo Game disk",
+        "file_name": "Madou Monogatari A.R.S (She-zo Game disk).hdm",
+        "size": 1261568,
+        "sha256": "53c746d3c1bf8eaee16a96d9c29c2100e4b09ca405f3e57a1eb9059daedfb584"
+      },
+      "data": {
+        "id": "schezo_data",
+        "label": "Schezo Data disk",
+        "file_name": "Madou Monogatari A.R.S (She-zo Data disk).hdm",
+        "size": 1261568,
+        "sha256": "fc12290819c86fd6fe8dd432d63aabcb6d40d93f94de0ced9de2b2c65666c489"
+      }
+    }
+  ]
+}

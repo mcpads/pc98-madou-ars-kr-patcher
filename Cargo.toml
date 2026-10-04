@@ -1,0 +1,19 @@
+[package]
+name = "pc98_madou_ars"
+version = "1.0.1"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+crc32fast = "1"
+encoding_rs = "0.8"
+fontdue = "=0.9.3"
+png = "0.17"
+pc98-fat12-patcher-core = { git = "https://github.com/mcpads/pc98-fat12-patcher-tool.git", rev = "367c6d7ae82535014cc6bc3b275a9687c90aea43" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+sha2 = "0.10"
+v30 = { git = "https://github.com/mcpads/retro-typed-isa.git", rev = "245308c34930ee4d05179771e151578c9938cd8f" }
+
+[dev-dependencies]

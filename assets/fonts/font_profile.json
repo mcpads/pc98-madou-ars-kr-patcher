@@ -1,0 +1,12 @@
+{
+  "schema": "pc98_madou_ars.font_profile.v1",
+  "id": "galmuri14-15px-baseline15-threshold128",
+  "font": "Galmuri14.ttf",
+  "font_sha256": "d3818c0f2898a3b2d79ccd04ec1e4de5e8940aa26abee261f73e315a44ce8df9",
+  "font_version": "2.403",
+  "font_size": 15,
+  "baseline_y": 15,
+  "threshold": 128,
+  "license": "Galmuri-OFL.txt",
+  "source": "https://github.com/quiple/galmuri"
+}
